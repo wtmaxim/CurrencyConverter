@@ -1,0 +1,11 @@
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+C:\Users\Maxime DERAME\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
